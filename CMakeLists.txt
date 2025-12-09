@@ -3,4 +3,4 @@ project(Data-Structures-Implementation)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable( Linked_List LinkedList.cpp )
+add_executable( Dynamic_Array DynamicArray.cpp )
